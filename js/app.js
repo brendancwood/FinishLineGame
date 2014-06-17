@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+=======
+>>>>>>> a7a0571319a6bc55b2485eb2ba7071eba1980700
 var win = false;
 var defaultWidth = 25;
 $('.clicker').on('mouseenter', function(){
