@@ -1,0 +1,51 @@
+.nav-container{
+	margin-bottom:70px;
+}
+/*.container{
+	position:relative;
+}*/
+.container-game{
+	width:800px;
+	height:450px;
+	background-color: #ccc;
+	position:relative;
+}
+.red, .blue, .green, .black, .yellow{
+	height:70px;
+	width:25px;
+	display: block;
+	margin-bottom: 10px;
+	position: absolute;
+}
+.red{
+	background-color: red;
+	margin-top:2%;
+}
+.blue{
+	background-color: blue;
+	margin-top:11%;
+}
+.green{
+	background-color: green;
+	margin-top:20%;
+}
+.black{
+	background-color: black;
+	margin-top:29%;
+}
+.yellow{
+	background-color: yellow;
+	margin-top:38%;
+}
+.finish{
+	height:450px;
+	width:2px;
+	background-color: grey;
+	position:absolute;
+	left:610px;
+}
+.done{
+	position:absolute;
+	bottom:0;
+	left:350px;
+}
